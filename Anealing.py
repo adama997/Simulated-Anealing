@@ -1,5 +1,5 @@
 """
-This is an implementation of a simulated anealing algorithm. It's one of a most popular metaheuristics used in
+This is an implementation of a simulated annealing algorithm. It's one of a most popular metaheuristics used in
 global optimization.
 """
 
